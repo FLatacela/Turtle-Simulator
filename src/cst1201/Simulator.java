@@ -7,7 +7,7 @@ package cst1201;
 
 /**
  *
- * @author class
+ * @author Francisco Latacela
  */
 public class Simulator {
 

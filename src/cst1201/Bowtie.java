@@ -3,7 +3,7 @@ package cst1201;
 /**
  * A class representing a Bowtie drawn by a Turtle object.
  *
- * @author (Francisco Latacela
+ * @author Francisco Latacela
  */
 public class Bowtie {
 
